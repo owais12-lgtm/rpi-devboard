@@ -1,5 +1,8 @@
 # rpi-devboard
 
+# About
+thi sis a dev board based on an rpi 2040
+
 
 <img width="514" height="1014" alt="image" src="https://github.com/user-attachments/assets/934381ef-a473-44d9-807c-759be048b79a" />
 
